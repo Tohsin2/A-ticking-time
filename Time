@@ -31,7 +31,7 @@ class App extends React.Component {
           <h1> {this.state.time}</h1>
         </header>
       </div>
-    );
+   );
   }
 }
 
